@@ -1,1 +1,2 @@
 String :- A Sequence of character is a string.
+index value start with 0
