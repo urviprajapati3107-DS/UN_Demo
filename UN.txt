@@ -1,1 +1,2 @@
-String :- A Sequence of character is a string.
+hello there!!
+this is nidhi jain your patner in class.
